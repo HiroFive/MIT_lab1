@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Product1",
+    "price": 10.0,
+    "quantity": "3",
+    "description": "High-quality electronics gadget"
+  },
+  {
+    "name": "Product2",
+    "price": 25.0,
+    "quantity": "2",
+    "description": "Stylish and comfortable clothing item"
+  }
+]

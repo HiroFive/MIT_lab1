@@ -1,0 +1,3 @@
+Cart Items:
+Product1: $10.0, 3 High-quality electronics gadget
+Product2: $25.0, 2 Stylish and comfortable clothing item
